@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome to my corner of GitHub — I'm madsuscore 👋
 
-<!--
-**madsuscore/madsuscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Malaysia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>About me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 This year's goal: ship something every month
+- ⚡ Fun fact: I debug faster with music on
+- 🌍 Based in Malaysia
+- 📚 Currently reading whatever the docs link to
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=madsuscore&hide_border=true&theme=rogue" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madsuscore&hide_border=true&theme=ayu" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-fb923c?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-fb923c?style=for-the-badge&logoColor=white" alt="FastAPI" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
